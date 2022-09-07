@@ -1,0 +1,50 @@
+/* 
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+input[type=text] {
+    width: 100%;
+    padding: 5px 15px;
+    margin: 8px 0;
+    background-color: transparent;
+    border: 1px solid #fff;
+      
+}
+  .srch {
+    height: 30px;
+    display: flex;
+    cursor: pointer;
+    padding: 10px 20px;
+    background: #fff;
+    border-radius: 30px;
+    align-items: center;
+    box-shadow: 0 10px 25px rgba(0 , 0 ,0.3);
+  }
+ .srch:hover input {
+    width: 400px;
+} 
+
+.box input {
+    width: 0;
+    outline: none;
+    border: none;
+    font-weight: 500;
+    transition: 0.8s;
+    background: transparent;
+} 
+
+    .srch a .fas {
+        color: #1daf;
+        font-size: 18px;
+    }
+    */
